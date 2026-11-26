@@ -47,4 +47,5 @@ streamlit run app.py
 
 Agrega aquí el enlace de tu aplicación una vez que se encuentre desplegada en Render.
 
-**URL:** 
+**URL:** https://vehicles-dashboard-v2iz.onrender.com/
+
